@@ -2,6 +2,8 @@
 
 Todo API
 
+Node.JS, Express, Mongoose, MongoDB
+
 - Authentication through JWT
 - CRUD Operations:
   - Get all todos
